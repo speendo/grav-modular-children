@@ -1,0 +1,11 @@
+email: m2m@gmx.at
+fullname: 'Marcel Jira'
+title: Meister
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$V0KTUf7Y6C7XXDuxhfovBeh3YCS2uhhvOTzVMVWp6GR0.XfRXvuT6
